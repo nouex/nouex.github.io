@@ -8,7 +8,7 @@ alt: image-alt
 project-date: April 2020
 tech: JS, Bootstrap, Gulp
 link: http://www.paradisecustomsrestoration.com/
-source-link: https://github.com/baaae/paradise-customs-restoration
+source-link: https://github.com/nouex/paradise-customs-restoration
 description: Custom car restoration and paint jobs.
 
 ---

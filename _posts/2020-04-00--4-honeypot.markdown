@@ -8,7 +8,7 @@ alt: image-alt
 project-date: Dec 2019
 tech: Gatsby, React, GraphQL
 link: https://byuiapts.xyz/
-source-link: https://github.com/baaae/rose-golden
+source-link: https://github.com/nouex/rose-golden
 description: Rental marketplace that makes the process of finding student housing at BYUI smoother and more enjoyable.
 
 ---

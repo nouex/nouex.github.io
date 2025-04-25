@@ -8,7 +8,7 @@ alt: image-alt
 project-date: April 2020
 tech: Jekyll, JQuery, Bootstrap, C3.js
 link: https://nervous-mestorf-efc8df.netlify.app/
-source-link: https://github.com/baaae/fight-rona
+source-link: https://github.com/nouex/fight-rona
 description: Showcase positive stories about how the world is fighting COVID-19.
 
 ---
