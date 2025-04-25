@@ -39,18 +39,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/slightly_cooked
-  - title: facebook
-    url: https://www.facebook.com/amauri.alfaro.90
   - title: stack-overflow
     url: https://stackoverflow.com/users/3280654/amauri
   - title: github
-    url: https://github.com/slightly-cooked
-
+    url: https://github.com/nouex
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kansas City, KS
+  - line: SLC, UT
 
 # Credits content
 credits: 'Built with ❤️ - xoxo'
